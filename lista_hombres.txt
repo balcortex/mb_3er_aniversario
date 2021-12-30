@@ -16,3 +16,7 @@ Carlos Balderas
 Alejandro Gonzalez Hidalgo
 Gabriel Amezcua
 Richard Vazquez
+Leonel Saavedra
+David Tafolla
+Abel Cortes
+Angel Marquez
