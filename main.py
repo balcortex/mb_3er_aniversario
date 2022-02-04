@@ -21,14 +21,14 @@ def sample_winners(filename: str, k: int) -> str:
 
 if __name__ == "__main__":
 
-    print("\n * * * LISTA MUJERES * * *")
-    print(read_file(MUJERES))
-    print("\n * * * GANADORES MUJERES * * *")
-    sample_winners(MUJERES, k=2)
-    print()
-
-    # print("\n * * * LISTA HOMBRES * * *")
-    # print(read_file(HOMBRES))
-    # print("\n * * * GANADORES HOMBRES * * *")
-    # sample_winners(HOMBRES, k=7)
+    # print("\n * * * LISTA MUJERES * * *")
+    # print(read_file(MUJERES))
+    # print("\n * * * GANADORES MUJERES * * *")
+    # sample_winners(MUJERES, k=2)
     # print()
+
+    print("\n * * * LISTA HOMBRES * * *")
+    print(read_file(HOMBRES))
+    print("\n * * * GANADORES HOMBRES * * *")
+    sample_winners(HOMBRES, k=7)
+    print()
